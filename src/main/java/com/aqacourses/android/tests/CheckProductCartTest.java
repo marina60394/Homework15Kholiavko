@@ -1,8 +1,8 @@
 package com.aqacourses.android.tests;
 
-import com.aqacourses.android.Enum.CatalogList;
-import com.aqacourses.android.Enum.GoalCategory;
-import com.aqacourses.android.Enum.SubCategoryList;
+import com.aqacourses.android.enums.CatalogList;
+import com.aqacourses.android.enums.GoalCategory;
+import com.aqacourses.android.enums.SubCategoryList;
 import com.aqacourses.android.base.BaseTest;
 import com.aqacourses.android.pages.*;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.aqacourses.android.Enum;
+package com.aqacourses.android.enums;
 
 /**
  * Created by Marina on 30.03.2019.
