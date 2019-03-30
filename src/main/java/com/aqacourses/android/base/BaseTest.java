@@ -65,7 +65,7 @@ public class BaseTest {
         desiredCapabilities.setCapability("app", app.getAbsolutePath());
 
         // Set name of the device
-        desiredCapabilities.setCapability("deviceName", "MI 5");
+        desiredCapabilities.setCapability("deviceName", "Nexus");
 
         // Set platform name
         desiredCapabilities.setCapability("platformName", "Android");
